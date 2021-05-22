@@ -1,0 +1,19 @@
+{
+    "openapi": "3.0.1",
+    "info": {
+        "title": "Swagger Airport",
+        "version": "1.0.0",
+        "description": "My Airport",
+        "contact": {
+            "email": "joseph.womack@wawg.cap.gov",
+            "name": "Joseph Womack"
+        },
+        "license": {
+            "name": "MIT",
+            "url": "/LICENSE.html"
+        }
+    },
+    "paths": {
+
+    }
+}
