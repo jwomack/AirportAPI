@@ -1,0 +1,34 @@
+{
+  "name": "airportapi",
+  "version": "1.0.0",
+  "description": "Airport Ground Services API",
+  "private": true,
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jwomack/AirportAPI.git"
+  },
+  "keywords": [
+    "CAP",
+    "Civil Air Patrol",
+    "Airport",
+    "Ground Services"
+  ],
+  "author": "Joseph Womack",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jwomack/AirportAPI/issues"
+  },
+  "homepage": "https://github.com/jwomack/AirportAPI#readme",
+  "dependencies": {
+    "cookie-parser": "~1.4.4",
+    "debug": "~2.6.9",
+    "ejs": "~2.6.1",
+    "express": "~4.16.1",
+    "http-errors": "~1.6.3",
+    "morgan": "~1.9.1"
+  }
+}
